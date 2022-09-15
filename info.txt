@@ -1,0 +1,10 @@
+Hi there,
+
+
+I have added country name, country iso code, currency name & currency code as a json file here.
+
+I have spent some time to create this file.
+
+I have done some search for this kind of info but i did not get in one single file.
+
+Appending CSV also for the convenience.
